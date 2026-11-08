@@ -1,23 +1,39 @@
-name: Suggestion
-about: Suggest improvements or new features for my projects.
-title: "[Suggestion]: "
-labels: suggestion
+---
+name: Bug Report
+about: Report bugs or problems with my Modrinth projects.
+title: "[Bug]: "
+labels: bug
 assignees: ''
 ---
 
-### What is your suggestion?
-Describe your idea.
+### Describe the bug
+A clear description of the problem.
 
 ### Project information
 - Project name:
 - Project type:
 - Modrinth link:
+- Project version:
 
-### Why would you like this?
-Explain why this would be useful.
+### Minecraft information
+- Minecraft version:
+- Mod loader:
+- Launcher:
+- Operating system:
 
-### How should it work?
-Describe how you imagine it working.
+### Steps to reproduce
+1.
+2.
+3.
 
-### Additional information
-Screenshots, examples or references (optional).
+### Expected behavior
+What did you expect?
+
+### Actual behavior
+What happened instead?
+
+### Screenshots or logs
+Attach relevant screenshots or logs if applicable.
+
+### Additional context
+Anything else that might help.
