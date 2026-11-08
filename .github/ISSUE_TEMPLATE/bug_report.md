@@ -1,3 +1,4 @@
+---
 name: Bug Report
 about: Report bugs or problems with my Modrinth projects.
 title: "[Bug]: "
